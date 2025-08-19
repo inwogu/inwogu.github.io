@@ -8,11 +8,11 @@ middle_name:
 last_name: Nwogu
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Abigale Kim's personal website.
-footer_text: >
-  <a href="https://cmuwebr.ing/sites/abigalek/prev">prev</a>
-  <a href="https://cmuwebr.ing">cmu webring</a>
-  <a href="https://cmuwebr.ing/sites/abigalek/next">next</a>
+  Ifeoma Nwogu's personal website.
+#footer_text: >
+  #<a href="https://cmuwebr.ing/sites/abigalek/prev">prev</a>
+  #<a href="https://cmuwebr.ing">cmu webring</a>
+  #<a href="https://cmuwebr.ing/sites/abigalek/next">next</a>
 keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 
